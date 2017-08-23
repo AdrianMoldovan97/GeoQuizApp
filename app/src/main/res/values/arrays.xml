@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Q1_easy">
+        <item>@string/Q1_easy_answer1</item>
+        <item>@string/Q1_easy_answer2</item>
+        <item>@string/Q1_easy_answer3</item>
+    </string-array>
+
+    <string-array name="Q2_easy">
+        <item>@string/Q2_easy_answer1</item>
+        <item>@string/Q2_easy_answer2</item>
+        <item>@string/Q2_easy_answer3</item>
+    </string-array>
+
+    <string-array name="Q3_easy">
+        <item>@string/Q3_easy_answer1</item>
+        <item>@string/Q3_easy_answer2</item>
+        <item>@string/Q3_easy_answer3</item>
+    </string-array>
+
+    <string-array name="Q4_easy">
+        <item>@string/Q4_easy_answer1</item>
+        <item>@string/Q4_easy_answer2</item>
+        <item>@string/Q4_easy_answer3</item>
+    </string-array>
+
+    <string-array name="Q5_easy">
+        <item>@string/Q5_easy_answer1</item>
+        <item>@string/Q5_easy_answer2</item>
+        <item>@string/Q5_easy_answer3</item>
+    </string-array>
+
+
+    <string-array name="Q1_medium">
+        <item>@string/Q1_medium_answer1</item>
+        <item>@string/Q1_medium_answer2</item>
+        <item>@string/Q1_medium_answer3</item>
+    </string-array>
+
+    <string-array name="Q2_medium">
+        <item>@string/Q2_medium_answer1</item>
+        <item>@string/Q2_medium_answer2</item>
+        <item>@string/Q2_medium_answer3</item>
+    </string-array>
+
+    <string-array name="Q3_medium">
+        <item>@string/Q3_medium_answer1</item>
+        <item>@string/Q3_medium_answer2</item>
+        <item>@string/Q3_medium_answer3</item>
+    </string-array>
+
+    <string-array name="Q4_medium">
+        <item>@string/Q4_medium_answer1</item>
+        <item>@string/Q4_medium_answer2</item>
+        <item>@string/Q4_medium_answer3</item>
+    </string-array>
+
+    <string-array name="Q5_medium">
+        <item>@string/Q5_medium_answer1</item>
+        <item>@string/Q5_medium_answer2</item>
+        <item>@string/Q5_medium_answer3</item>
+    </string-array>
+
+    <string-array name="Q1_medium_answer">
+        <item>@string/Q1_medium_answer1</item>
+        <item>@string/Q1_medium_answer3</item>
+    </string-array>
+
+    <string-array name="Q2_medium_answer">
+        <item>@string/Q2_easy_answer1</item>
+        <item>@string/Q2_easy_answer2</item>
+    </string-array>
+
+    <string-array name="Q3_medium_answer">
+        <item>@string/Q3_medium_answer2</item>
+        <item>@string/Q3_medium_answer3</item>
+    </string-array>
+
+    <string-array name="Q4_medium_answer">
+        <item>@string/Q4_medium_answer3</item>
+    </string-array>
+
+    <string-array name="Q5_medium_answer">
+        <item>@string/Q5_medium_answer2</item>
+    </string-array>
+
+</resources>

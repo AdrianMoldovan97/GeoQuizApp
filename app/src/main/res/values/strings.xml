@@ -3,6 +3,71 @@
     <string name="welcome">Welcome to GeoQuiz</string>
     <string name="start_app">Choose the dificulty</string>
     <string name="easy_questions">Easy Questions</string>
+    <string name="start_quiz">Start the quiz !</string>
+    <string name="check_questions">Check all questions please</string>
     <string name="hard_questions">Difficult Questions</string>
     <string name="medium_questions">Medium Questions</string>
+    <string name="score">Score :</string>
+    <string name="submit">Submit</string>
+    <string name="restart">Restart</string>
+    <string name="total">Total score :</string>
+    <string name="write_answer">write the answer</string>
+    <string name="complete_spaces">Complete all the spaces pleaser</string>
+
+
+    <string name="text_Q1_easy">Which is the most populated country?</string>
+    <string name="text_Q2_easy">How many oceans are on Earth?</string>
+    <string name="text_Q3_easy">Which city is he capital of Italy?</string>
+    <string name="text_Q4_easy">The highest mountains are...</string>
+    <string name="text_Q5_easy">Which rives flows through Romania?</string>
+
+    <string name="Q1_easy_answer1">India</string>
+    <string name="Q1_easy_answer2">China</string>
+    <string name="Q1_easy_answer3">USA</string>
+    <string name="Q2_easy_answer1">5</string>
+    <string name="Q2_easy_answer2">4</string>
+    <string name="Q2_easy_answer3">6</string>
+    <string name="Q3_easy_answer1">Milano</string>
+    <string name="Q3_easy_answer2">Venice</string>
+    <string name="Q3_easy_answer3">Rome</string>
+    <string name="Q4_easy_answer1">Himalayas</string>
+    <string name="Q4_easy_answer2">Alps</string>
+    <string name="Q4_easy_answer3">Caucaz</string>
+    <string name="Q5_easy_answer1">Volga</string>
+    <string name="Q5_easy_answer2">Danube</string>
+    <string name="Q5_easy_answer3">Rin</string>
+
+    <string name="text_Q1_medium">Which of the following rivers go through France?</string>
+    <string name="text_Q2_medium">Cities from Italy are: </string>
+    <string name="text_Q3_medium">Capitals of an african state are:</string>
+    <string name="text_Q4_medium">Which mountains are hoger than 6000 meters?</string>
+    <string name="text_Q5_medium">Countries from Yutland are:</string>
+
+    <string name="Q1_medium_answer1">Loara</string>
+    <string name="Q1_medium_answer2">Danube</string>
+    <string name="Q1_medium_answer3">Sena</string>
+    <string name="Q2_medium_answer1">Padova</string>
+    <string name="Q2_medium_answer2">Bari</string>
+    <string name="Q2_medium_answer3">Strasbourg</string>
+    <string name="Q3_medium_answer1">Hanoi</string>
+    <string name="Q3_medium_answer2">Niger</string>
+    <string name="Q3_medium_answer3">Mogadiscio</string>
+    <string name="Q4_medium_answer1">Kilimanjaro</string>
+    <string name="Q4_medium_answer2">Caucaz</string>
+    <string name="Q4_medium_answer3">Cho Polu</string>
+    <string name="Q5_medium_answer1">Estonia</string>
+    <string name="Q5_medium_answer2">Danemark</string>
+    <string name="Q5_medium_answer3">Latvia</string>
+
+    <string name="text_Q1_hard">Through how many european capitals passes Danube river?</string>
+    <string name="text_Q2_hard">Which is the highest altitude in Africa?</string>
+    <string name="text_Q3_hard">What river goes through London?</string>
+    <string name="text_Q4_hard">Which is the smallest country</string>
+    <string name="text_Q5_hard">Which city is the capital of Ivory Coast?</string>
+
+    <string name="Q1_hard_right_answer">4</string>
+    <string name="Q2_hard_right_answer">5895</string>
+    <string name="Q3_hard_right_answer">Tames</string>
+    <string name="Q4_hard_right_answer">Vatican</string>
+    <string name="Q5_hard_right_answer">Yamoussoukro</string>
 </resources>

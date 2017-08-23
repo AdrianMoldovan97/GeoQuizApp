@@ -7,6 +7,7 @@
     <dimen name="button_height">35dp</dimen>
     <dimen name="text_size">20sp</dimen>
     <dimen name="text_size_button">15sp</dimen>
+    <dimen name="text_size_title">25sp</dimen>
     <dimen name="text_padding">5dp</dimen>
-
+    <dimen name="text_margin">10dp</dimen>
 </resources>
